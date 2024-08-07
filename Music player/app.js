@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : "music\stay.jpeg",
+        img : 'images/stay.jpeg',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
-        music : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\Stay(PagalNew.Com.Se).mp3"
+        music :'music/Stay(PagalNew.Com.Se).mp3'
     },
     {
-        img : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\oru.jpeg",
+        img : 'images/oru.jpeg',
         name : 'Oru-naalil',
         artist : 'yuvan',
-        music : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\Oru-Naalil.mp3"
+        music : "music/Oru-Naalil.mp3"
     },
     {
-        img : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\despa.jpeg",
+        img : "images/despa.jpeg",
         name : 'Despacito',
         artist : 'Alan Walker',
-        music : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\Oru-Naalil.mp3"
+        music : "music/Oru-Naalil.mp3"
     },
     {
-        img : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\despa.jpeg",
+        img : "images/badass.jpeg",
         name : 'Badass',
         artist : 'Anirudh',
-        music : "C:\Users\shyam\OneDrive\Desktop\code alpha\projects\music\Badass Leo 128 Kbps.mp3"
+        music : "music/Badass Leo 128 Kbps.mp3"
     }
 ];
 
